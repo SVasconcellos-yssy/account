@@ -1,0 +1,7 @@
+programação orientada a objeto
+
+POO significa Programação Orientada a Objetos. É um paradigma de programação que se baseia na ideia de que um programa de computador é composto por "objetos" que interagem entre si para realizar determinadas tarefas.
+
+Esses objetos possuem propriedades (também conhecidas como atributos) que os caracterizam e métodos (também conhecidos como funções) que determinam o seu comportamento. A POO tem como objetivo facilitar o desenvolvimento de programas complexos, permitindo que o código seja dividido em módulos independentes e reutilizáveis.
+
+Alguns dos princípios da POO incluem encapsulamento, herança e polimorfismo. O encapsulamento refere-se à capacidade de esconder os detalhes internos de um objeto, permitindo que ele seja utilizado de forma simples e segura. A herança permite que um objeto herde propriedades e métodos de outro objeto, facilitando a criação de novos objetos a partir de outros já existentes. O polimorfismo permite que objetos de diferentes classes possam ser tratados de forma semelhante, o que aumenta a flexibilidade e a reutilização de código.
